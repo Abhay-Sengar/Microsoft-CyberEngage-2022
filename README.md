@@ -4,4 +4,4 @@
 2. Here I have shared my Prototypes and POCs for different tasks that can be automated for ease of use (Refer to the video to understand motive and working, its < 5 min).
 3. Achieved AIR 1 in the Microsoft Cybersecurity Engage.
 
-![unnamed](https://user-images.githubusercontent.com/103462177/178164649-fcacbf1c-7f7e-465f-886f-a031d53789c5.png)
+![cybersec_crop](https://user-images.githubusercontent.com/103462177/190909622-c8a43c6a-49d7-4e92-ac06-03567bc11862.jpg)
